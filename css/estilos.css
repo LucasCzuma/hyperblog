@@ -30,3 +30,18 @@ body{
     font-weight: bold;
     text-decoration: none;
 }
+#cabecera{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: underline palegreen;
+    margin-left: 15px;
+
+}
