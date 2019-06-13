@@ -4,7 +4,7 @@ body{
     color: blueviolet;
     margin: 0;
     padding: 0;
-    font-size: 16px;
+    font-size: 14px;
 }
 #contenedor{
     width: 70%;
@@ -15,4 +15,18 @@ body{
 }
 #contenedor h1{
     font-size: 20px;
+}
+#contenedor p{
+    color: black;
+    font-size: 15px;
+}
+#contenedor #duki span{
+    color: darkblue;
+    text-decoration: underline;
+    font-family: Verdana;
+}
+#contenedor #duki #lpm{
+    color: deeppink;
+    font-weight: bold;
+    text-decoration: none;
 }
